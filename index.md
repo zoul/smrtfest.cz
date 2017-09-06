@@ -43,3 +43,8 @@ Přednáška o tradicích a zvycích spojených se smrtí ve světových kultur�
 *12:00 Neorganizovaný Chill Out Workshop: volná zábava, poslední dopisy, dříve vyslovená přání*
 
 Možnost popřemýšlet, mluvit, zapsat si, pít u toho kafe a toulat se po Boskovicích, mluvit s ostatními a nebo ne.
+
+## Odkazy, kontakty
+
+* [Událost na Facebooku](http://www.facebook.com/events/159379267972760)
+* zn.kristyna@gmail.com
