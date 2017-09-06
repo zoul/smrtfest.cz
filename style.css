@@ -3,6 +3,7 @@
 body {
     font-family: 'Roboto Condensed', sans-serif;
     font-size: 18px;
+    line-height: 1.5em;
     color: #555;
     padding-bottom: 50px;
 }
